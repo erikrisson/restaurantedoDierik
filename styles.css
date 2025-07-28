@@ -51,8 +51,8 @@ section {
 }
 
 section h2 {
-    color: #ff33006e;
-    border-bottom: 2px solid #e76f51;
+    color: #000000;
+    border-bottom: 2px solid #000000;
     padding-bottom: 0.5rem;
     margin-bottom: 1rem;
 }
@@ -65,7 +65,7 @@ section h2 {
 
 .item {
     text-align: center;
-    background-color: #f4a261;
+    background-color: #ff0000ad;
     padding: 1rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
