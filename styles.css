@@ -9,7 +9,7 @@ body {
 
 header {
     background-color: #ff8800;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 1rem 0;
     text-align: center;
 }
@@ -32,7 +32,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-weight: bold;
 }
@@ -65,7 +65,7 @@ section h2 {
 
 .item {
     text-align: center;
-    background-color: #ff0000ad;
+    background-color: #ffae00;
     padding: 1rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
